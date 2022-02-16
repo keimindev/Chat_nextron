@@ -39,8 +39,9 @@ const Container = styled.div`
     flex-direction: column;
     span {
       padding: 1em 1em;
-      background-color: skyblue;
+      background-color: #757de8;
       margin: 0.5em;
+      color: #fff;
       border-radius: 8px;
       cursor: pointer;
       &:hover {

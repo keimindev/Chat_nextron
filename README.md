@@ -1,38 +1,39 @@
-<p align="center"><img src="https://i.imgur.com/X7dSE68.png"></p>
+# Chat app (nextron.js & firebase )
 
-## Usage
+- 회원가입, 로그인, 유저 리스트 가능
+- 유저 리스트에 상대방 이름을 클릭하면 채팅방을 만들 수 있습니다
 
-### Create an App
+<br>
+<br>
 
-```
-# with npx
-$ npx create-nextron-app my-app --example with-javascript
+## list
 
-# with yarn
-$ yarn create nextron-app my-app --example with-javascript
+✅ Signup <br>
+✅ Login <br>
+✅ Userlist <br>
+✅ Create Chatroom <br>
 
-# with pnpx
-$ pnpx create-nextron-app my-app --example with-javascript
-```
+<br>
 
-### Install Dependencies
+## pages
 
-```
-$ cd my-app
+<img src="https://i0.wp.com/www.midnightinsomewhere.com/wp-content/uploads/2022/02/homehome-1.jpg?resize=768%2C500&ssl=1" width="45%">
+<img src="https://i0.wp.com/www.midnightinsomewhere.com/wp-content/uploads/2022/02/singupsingup-1.jpg?resize=768%2C502&ssl=1" width="45%">
+<img src="https://i0.wp.com/www.midnightinsomewhere.com/wp-content/uploads/2022/02/loginlogin-1.jpg?resize=768%2C501&ssl=1" width="45%">
+<img src="https://i0.wp.com/www.midnightinsomewhere.com/wp-content/uploads/2022/02/chatlist-1.jpg?resize=768%2C427&ssl=1" width="45%">
 
-# using yarn or npm
-$ yarn (or `npm install`)
+<br>
 
-# using pnpm
-$ pnpm install --shamefully-hoist
-```
+## Firebase Data Tree
+
+<br>
+<p align="center">
+<img src="https://i0.wp.com/www.midnightinsomewhere.com/wp-content/uploads/2022/02/image-1.png?resize=768%2C499&ssl=1" width="70%">
+</p>
 
 ### Use it
 
 ```
 # development mode
-$ yarn dev (or `npm run dev` or `pnpm run dev`)
-
-# production build
-$ yarn build (or `npm run build` or `pnpm run build`)
+$ npm run dev
 ```
