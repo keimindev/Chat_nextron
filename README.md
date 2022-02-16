@@ -17,10 +17,13 @@
 
 ## pages
 
-<img src="https://i0.wp.com/www.midnightinsomewhere.com/wp-content/uploads/2022/02/homehome-1.jpg?resize=768%2C500&ssl=1" width="45%">
-<img src="https://i0.wp.com/www.midnightinsomewhere.com/wp-content/uploads/2022/02/singupsingup-1.jpg?resize=768%2C502&ssl=1" width="45%">
-<img src="https://i0.wp.com/www.midnightinsomewhere.com/wp-content/uploads/2022/02/loginlogin-1.jpg?resize=768%2C501&ssl=1" width="45%">
-<img src="https://i0.wp.com/www.midnightinsomewhere.com/wp-content/uploads/2022/02/chatlist-1.jpg?resize=768%2C427&ssl=1" width="45%">
+<p align="left">
+<img src="https://i0.wp.com/www.midnightinsomewhere.com/wp-content/uploads/2022/02/homehome-1.jpg?resize=768%2C500&ssl=1" width="46%">
+<img src="https://i0.wp.com/www.midnightinsomewhere.com/wp-content/uploads/2022/02/singupsingup-1.jpg?resize=768%2C502&ssl=1" width="46%">
+<img src="https://i0.wp.com/www.midnightinsomewhere.com/wp-content/uploads/2022/02/loginlogin-1.jpg?resize=768%2C501&ssl=1" width="46%">
+<img src="https://i0.wp.com/www.midnightinsomewhere.com/wp-content/uploads/2022/02/chatlist-1.jpg?resize=768%2C427&ssl=1" width="46%">
+<img src="https://i0.wp.com/www.midnightinsomewhere.com/wp-content/uploads/2022/02/chatroom.jpg?resize=768%2C499&ssl=1" width="46%">
+</p>
 
 <br>
 
@@ -28,7 +31,7 @@
 
 <br>
 <p align="center">
-<img src="https://i0.wp.com/www.midnightinsomewhere.com/wp-content/uploads/2022/02/image-1.png?resize=768%2C499&ssl=1" width="70%">
+<img src="https://i0.wp.com/www.midnightinsomewhere.com/wp-content/uploads/2022/02/image-1.png?resize=768%2C499&ssl=1" width="90%">
 </p>
 
 ### Use it

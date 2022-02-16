@@ -28,10 +28,10 @@ const Sidebar = () => {
   };
 
   useEffect(() => {
-    fetchUserData();
-    //if you dont put it in, chat-list doesn't show up
-    setMounted(true);
     try {
+      //if you dont put it in, chat-list doesn't show up
+      setMounted(true);
+      fetchUserData();
       const chatRef = collection(db, "chats");
       const q = query(chatRef, where("users", "array-contains", curUser?.uid));
 

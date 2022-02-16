@@ -166,6 +166,7 @@ const Header = styled.div`
 `;
 
 const MessageContainer = styled.div`
+  width: 100%;
   background-color: #eee;
   height: 90vh;
   display: flex;
@@ -187,19 +188,21 @@ const InputContainer = styled.div`
 `;
 
 const Message = styled.div`
-  width: 20%;
-  background-color: rgba(255, 255, 255, 0.9);
+  margin-left: auto;
+  margin: 0.5em 0.5em;
+  background-color: #fff;
   border: 1px solid #eee;
   border-radius: 8px;
   padding: 0.8em;
 `;
 
 const MyMessage = styled.div`
-  display: flex;
-  justify-content: end;
-  background-color: limegreen;
+  margin: 0.5em 0.5em;
+  margin-left: auto;
+  background-color: #3f51b5;
   border: 1px solid #eee;
   border-radius: 8px;
   padding: 0.8em;
-  text-align: right;
+  color: #fff;
+  text-align: left;
 `;
